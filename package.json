@@ -1,0 +1,17 @@
+{
+  "name": "@anzar/postinstall-hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": {
+    "email": "vetesi.zoltan@gmail.com",
+    "name": "Vetési Zoltán"
+  },
+  "bin": {
+    "anzar-postinstall-hook": "src/cli.js"
+  },
+  "dependencies": {
+    "resolve": "^1.10.0"
+  },
+  "license": "ISC"
+}
